@@ -4,7 +4,7 @@ En este documento se describirán los cambios efectuados luego de que el Digital
 
 ## HTML 🚀
 
-<div>Hola Mundo</div>
+<div style="border:1px solid red; padding;10px; color:orange;">Hola Mundo</div>
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
