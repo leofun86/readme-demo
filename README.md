@@ -1,8 +1,8 @@
-# Título del Proyecto
+# Cambios de Flipbook post exportación de ID
 
-_Acá va un párrafo que describa lo que es el proyecto_
+En este documento se describirán los cambios efectuados luego de que el Digital Magazine haya sido convertido en código HTML.
 
-## Comenzando 🚀
+## HTML 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
