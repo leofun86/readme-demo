@@ -4,10 +4,9 @@ En este documento se describirán los cambios efectuados luego de que el Digital
 
 ## HTML 🚀
 
-<h1>Hola Mundo</h1>
+<img src="cap0.png">
 
 <img src="cap1.png">
-![imagen](cap1.png)
 
 <p>Mira **Deployment** para conocer como desplegar el proyecto.</p>
 
