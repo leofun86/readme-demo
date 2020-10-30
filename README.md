@@ -4,25 +4,10 @@ En este documento se describirán los cambios efectuados luego de que el Digital
 
 ## HTML 🚀
 
-<h1>
-  Hola Mundo
-</h1>
+<h1>Hola Mundo</h1>
 
-<ul>
-  <li>Elemento 1</li>
-  <li>Elemento 2</li>
-  <li>Elemento 3</li>
-  <li>Elemento 4</li>
-  <li>Elemento 5</li>
-</ul>
-<code>
-  <div>Hola Mundo</div>
-  <p>Hola Mundo</p>
-</code>
-
-<a href="www.google.com" target="_blank">
-  <img src="cap_1.jpg">
-</a>
+<img src="./cap_1.jpg">
+![imagen](cap_1.jpg)
 
 <p>Mira **Deployment** para conocer como desplegar el proyecto.</p>
 
