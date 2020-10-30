@@ -3,10 +3,15 @@
 
 <h2>HTML</h2>
 <ul>
- <li>Cargar <a href="">font awesome</a> para ver el icono de volumen ON/OFF con la siguiente línea:</li>
+ <li>En la etiqueta <b>head</b> cargar <a href="https://fontawesome.com/" target="_blank">font awesome</a> para ver el icono de volumen ON/OFF, o cualquier otro icono que se agregue posteriormente:</li>
 </ul>
 
 `<script src="https://kit.fontawesome.com/3acfa00924.js" crossorigin="anonymous"></script>`
+
+<ul>
+ <li>Cargar los archivos de <b>javascript</b> y <b>css</b> personalizados y <b>sound fx</b> con el siguiente enlace:</li>
+</ul>
+<h3><a href="flipbook-material.rar" download>Descargar</a></h3>
 
 <img src="cap0.png">
 
