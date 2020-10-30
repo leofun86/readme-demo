@@ -19,8 +19,10 @@ En este documento se describirán los cambios efectuados luego de que el Digital
   <div>Hola Mundo</div>
   <p>Hola Mundo</p>
 </code>
+
 ![Imagen](cap_1.jpg)
-Mira **Deployment** para conocer como desplegar el proyecto.
+
+<p>Mira **Deployment** para conocer como desplegar el proyecto.</p>
 
 
 ### Pre-requisitos 📋
