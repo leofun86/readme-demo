@@ -4,6 +4,8 @@ En este documento se describirán los cambios efectuados luego de que el Digital
 
 ## HTML 🚀
 
+`<script src="https://kit.fontawesome.com/3acfa00924.js" crossorigin="anonymous"></script>`
+
 <img src="cap0.png">
 
 <img src="cap1.png">
