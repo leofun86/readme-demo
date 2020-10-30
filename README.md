@@ -5,6 +5,7 @@
 <ul>
  <li>Cargar <a href="">font awesome</a> para ver el icono de volumen ON/OFF con la siguiente línea:</li>
 </ul>
+
 `<script src="https://kit.fontawesome.com/3acfa00924.js" crossorigin="anonymous"></script>`
 
 <img src="cap0.png">
