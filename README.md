@@ -6,8 +6,8 @@ En este documento se describirán los cambios efectuados luego de que el Digital
 
 <h1>Hola Mundo</h1>
 
-<img src="./cap_1.jpg">
-![imagen](cap_1.jpg)
+<img src="cap1.png">
+![imagen](cap1.png)
 
 <p>Mira **Deployment** para conocer como desplegar el proyecto.</p>
 
