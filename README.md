@@ -20,7 +20,9 @@ En este documento se describirán los cambios efectuados luego de que el Digital
   <p>Hola Mundo</p>
 </code>
 
-![Imagen](cap_1.jpg)
+<a href="www.google.com" target="_blank">
+  <img src="cap_1.jpg">
+</a>
 
 <p>Mira **Deployment** para conocer como desplegar el proyecto.</p>
 
