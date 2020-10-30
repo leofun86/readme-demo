@@ -1,10 +1,10 @@
-# Cambios de Flipbook post exportación de ID
+# Cambios de Flipbook post exportación en InDesign
 
 En este documento se describirán los cambios efectuados luego de que el Digital Magazine haya sido convertido en código HTML.
 
 ## HTML 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+<div>Hola Mundo</div>
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
