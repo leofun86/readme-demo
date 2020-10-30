@@ -19,7 +19,7 @@ En este documento se describirán los cambios efectuados luego de que el Digital
   <div>Hola Mundo</div>
   <p>Hola Mundo</p>
 </code>
-
+![Hola mundo](https://wppcloud-my.sharepoint.com/personal/leandro_funes_wundermanthompson_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fleandro%5Ffunes%5Fwundermanthompson%5Fcom%2FDocuments%2FFolds%20%26%20Docs%2Fmix%5Fmedia%2Fyo%2Ejpg&parent=%2Fpersonal%2Fleandro%5Ffunes%5Fwundermanthompson%5Fcom%2FDocuments%2FFolds%20%26%20Docs%2Fmix%5Fmedia&originalPath=aHR0cHM6Ly93cHBjbG91ZC1teS5zaGFyZXBvaW50LmNvbS86aTovZy9wZXJzb25hbC9sZWFuZHJvX2Z1bmVzX3d1bmRlcm1hbnRob21wc29uX2NvbS9FY2ppaDNEOS05bEVobFBweG9aeWhjVUJZSVkzV2llQnc1WXRjcERuUHlkT1RnP3J0aW1lPVNmeVFyQWg5MkVn)
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
