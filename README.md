@@ -1,9 +1,10 @@
-# Cambios de Flipbook post exportación en InDesign
+<h1>Cambios de Flipbook post exportación en InDesign</h1>
+<p>En este documento se describirán los cambios efectuados luego de que el Digital Magazine haya sido convertido en código HTML.</p>
 
-En este documento se describirán los cambios efectuados luego de que el Digital Magazine haya sido convertido en código HTML.
-
-## HTML 🚀
-
+<h2>HTML</h2>
+<ul>
+ <li>Cargar <a href="">font awesome</a> para ver el icono de volumen ON/OFF con la siguiente línea:</li>
+</ul>
 `<script src="https://kit.fontawesome.com/3acfa00924.js" crossorigin="anonymous"></script>`
 
 <img src="cap0.png">
@@ -12,7 +13,7 @@ En este documento se describirán los cambios efectuados luego de que el Digital
 
 <p>Mira **Deployment** para conocer como desplegar el proyecto.</p>
 
-<a href="flipbook-material.rar" download>Descargar</a>
+<a href="flipbook-material.rar" target="_blank" download>Descargar</a>
 
 
 ### Pre-requisitos 📋
