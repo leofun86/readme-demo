@@ -8,6 +8,14 @@ En este documento se describirán los cambios efectuados luego de que el Digital
   Hola Mundo
 </h1>
 
+<ul>
+  <li>Elemento 1</li>
+  <li>Elemento 2</li>
+  <li>Elemento 3</li>
+  <li>Elemento 4</li>
+  <li>Elemento 5</li>
+</ul>
+
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
