@@ -12,7 +12,7 @@ En este documento se describirán los cambios efectuados luego de que el Digital
 
 <p>Mira **Deployment** para conocer como desplegar el proyecto.</p>
 
-<a href="flipbook-material.rar" download>
+<a href="flipbook-material.rar" download>Descargar</a>
 
 
 ### Pre-requisitos 📋
