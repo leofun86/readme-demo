@@ -15,6 +15,10 @@ En este documento se describirán los cambios efectuados luego de que el Digital
   <li>Elemento 4</li>
   <li>Elemento 5</li>
 </ul>
+<code>
+  <div>Hola Mundo</div>
+  <p>Hola Mundo</p>
+</code>
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
